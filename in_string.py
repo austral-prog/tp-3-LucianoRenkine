@@ -6,4 +6,3 @@ def check_vowels():
     print(f"Contiene i: {"i" in name.lower()}")
     print(f"Contiene o: {"o" in name.lower()}")
     print(f"Contiene u: {"u" in name.lower()}")
-    print("")
